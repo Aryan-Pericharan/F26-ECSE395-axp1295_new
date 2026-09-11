@@ -24,7 +24,7 @@ Aryan =  me
         - At 12:00PM, Martin arrived. Along with the rest of us, he looked over the document and made some refinements to the section on Corey, one of our personas.
 
         - Around 12:30PM, Adewola and Aryan departed to attend other obligations. From 12:30 to 1:00pm, Martin and Andrew looked over the document as a whole to ensure that it included the appropriate details to meet our needs and the requirements of the assignment.
-2. Aryan Submitted the Project background and needs statement assignment to canvas 
+2. Aryan Submitted the Project background and needs statement assignment to canvas after getting agreement from teammates and verifying formatting requirements 
 
 
 
