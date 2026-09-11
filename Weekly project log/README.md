@@ -7,3 +7,7 @@ Describes assignment of teams, creation and sending of the stakeholder email and
 
 ### week2.md:
 Describes the meeting we had with out stakeholder and has the notes that I collated after the meeting 
+
+
+### week3.md:
+Describes 2 team meeting where the team worked on the project background and needs assignemnt
