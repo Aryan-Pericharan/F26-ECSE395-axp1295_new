@@ -25,3 +25,6 @@
     + Very comfortable
 5. Do you have any additional information or feedback you would like to share with the instructors?
     + NA
+
+### Standards Lecture
+I thought the lecture was very informative an essnetial part of learning for an engineer. I enjoyed the scenarios he talked about and the real world conection he made. It made me think more about how we were going to solve ourr own stakeholders problem while meeting the set standard and made me consider whether I had met the standard in some of my own projects.
