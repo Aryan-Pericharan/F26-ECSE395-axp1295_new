@@ -36,6 +36,8 @@ Images of actual created circuits are below adn in the images folder:
 ![Servo Motor Circuit](https://github.com/Aryan-Pericharan/F26-ECSE395-axp1295_new/blob/main/Images/Servo%20motor%20connections.jpeg)
 ### Reflection
 
+Videos in the videos folder of the repo
+
 1. How long did it take you to complete this assignment?
     + 1 hour and 40 min
 2. What level of difficulty would you associate with this assignment? (Low, Medium, High)
