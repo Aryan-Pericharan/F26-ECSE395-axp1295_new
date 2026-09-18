@@ -31,7 +31,7 @@ Increasing causes it to act jittery and not fully rotate due to the time between
 
 Images of actual created circuits are below adn in the images folder: 
 
-![TT Motor Circuit]("ECSE 395\F26-ECSE395-axp1295_new\Images\TT motor connections.jpeg")
+![TT Motor Circuit]("https://github.com/Aryan-Pericharan/F26-ECSE395-axp1295_new/blob/main/Images/TT%20motor%20connections.jpeg")
 ### Reflection
 
 1. How long did it take you to complete this assignment?
