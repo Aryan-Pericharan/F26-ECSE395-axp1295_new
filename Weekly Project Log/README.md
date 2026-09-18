@@ -11,3 +11,6 @@ Describes the meeting we had with out stakeholder and has the notes that I colla
 
 ### week3.md:
 Describes 2 team meeting where the team worked on the project background and needs assignemnt
+
+### week4.md:
+Describes the multiple team meetings we had to work on the brainstorming assignment
