@@ -15,7 +15,7 @@ void setup() {
   myServo.attach(servoPin, minPulseWidth, maxPulseWidth);
 
   // Set the PWM frequency for the servo
-  myServo.setPeriodHertz(150); // Standard 50Hz servo
+  myServo.setPeriodHertz(50); // Standard 50Hz servo
 }
 
 void loop() {
