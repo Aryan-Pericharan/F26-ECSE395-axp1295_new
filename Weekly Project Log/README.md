@@ -14,3 +14,6 @@ Describes 2 team meeting where the team worked on the project background and nee
 
 ### week4.md:
 Describes the multiple team meetings we had to work on the brainstorming assignment
+
+### week5.md
+Describes our vaious meeting to work on the brainstorming and concept selection assignment as well as our meeting with our stakeholder
