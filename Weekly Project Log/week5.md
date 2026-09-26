@@ -77,5 +77,5 @@
     + After that, we worked on setting up the format of our Gantt Chart. We laid out the main course deadlines.
 
     + Adjourned at 2:00pm.
-3. I addedd all the assignment for the semester as well as their deadlines to the Gantt chart
+3. I added all the assignment for the semester as well as their deadlines to the Gantt chart
 
