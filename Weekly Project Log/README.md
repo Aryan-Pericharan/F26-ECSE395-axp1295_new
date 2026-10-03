@@ -17,3 +17,6 @@ Describes the multiple team meetings we had to work on the brainstorming assignm
 
 ### week5.md
 Describes our vaious meeting to work on the brainstorming and concept selection assignment as well as our meeting with our stakeholder
+
+### week6.md
+Describes our work on the gnatt chart and concept selection as well as our work on the system architecture and prototype strategy 
