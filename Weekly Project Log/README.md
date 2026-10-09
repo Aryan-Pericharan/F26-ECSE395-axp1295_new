@@ -20,3 +20,7 @@ Describes our vaious meeting to work on the brainstorming and concept selection 
 
 ### week6.md
 Describes our work on the gnatt chart and concept selection as well as our work on the system architecture and prototype strategy 
+
+### week7.md
+Descirbes our meetings and work to complete the system architechture and prototype strategy. We then worked on our prototypes (#1 and #2) as well as our verification and validation Plan
+
