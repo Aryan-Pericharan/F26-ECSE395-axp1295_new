@@ -24,3 +24,6 @@ Describes our work on the gnatt chart and concept selection as well as our work 
 ### week7.md
 Descirbes our meetings and work to complete the system architechture and prototype strategy. We then worked on our prototypes (#1 and #2) as well as our verification and validation Plan
 
+### week8.md
+Describes out meeting and work to complete teh verification and validation plan as well as our work on the prototypes 
+

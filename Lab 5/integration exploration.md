@@ -31,7 +31,7 @@ Videos in the videos folder of the repo as well as commented in the canvas assig
 
 
 1. How long did it take you to complete this assignment?
-    + 1 hour and 40 min
+    + 1 hour and 15 min
 2. What level of difficulty would you associate with this assignment? (Low, Medium, High)
     + Low 
 3. If you associated medium/high difficulty with this assignment, what aspect did you find the most difficult?
