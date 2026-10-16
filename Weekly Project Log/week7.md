@@ -45,7 +45,7 @@
 
     + Aryan submitted the document and we adjourned at 1:10 PM.
 
-## 10/05/2026
+## 10/07/2026
 1. Meeting in Glennan
 2. Minutes: 
     + We met on Wednesday, October 7, 2026, at 3:00 PM in Glennan lab. All members were present.
@@ -60,7 +60,7 @@
 
     + Adjourned at 4:30 PM.
 
-## 10/05/2026
+## 10/09/2026
 1. Meeting in Glennan
 2. Minutes: 
     + We met on Friday, October 9, 2026, at 12:40 PM, in Glennan lounge. All members were present.
