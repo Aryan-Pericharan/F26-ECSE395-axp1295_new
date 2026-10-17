@@ -14,9 +14,9 @@
     + Adjourned at 3:00 PM.
 3. I also ended up working on some part of the tracing matrix for the validation section 
 
-# 10/14/2026
-1. Meeting in Glenna
-    2. Minutes: 
+## 10/14/2026
+1. Meeting in Glennan
+2. Minutes: 
     + We met in Glennan lab on Wednesday, October 14, 2026, at 2:05PM. All members were present.
 
      + We received our microphones today, so we began making preparations to test them.
@@ -30,3 +30,16 @@
     + Aryan and Adewola began developing code to test the function of the buzzer.
 3. I wrote most of the code for the function of the buzzer
 4. Upon testing we discovered that the buzzer could not be used due to lack of physcial output and noly audio ouptut 
+
+## 10/16/2026
+1. Meeting in Glennan
+2. Minutes: 
+    + We met on Friday, October 16, 2026, at 2:00 PM, in Glennan Lab. All members were present.
+
+    + We each worked on various parts of working with the individual components that will be used in our device. Martin worked on connecting the sound sensors to the OLED and displaying an image, while Aryan, Adewola, and Andrew worked on communicating with the microphone module.
+
+    + We were successfully able to display an image on the OLED based on the signals from two sound sensors, establishing a baseline for the final goal of establishing an absolute direction by attaching more sensors.
+
+    + We were also able to successfully get data from the microphone module, but we will need more testing to understand this data and work with it in real time for displaying appropriate signals on the screen.
+
+    + Adjourned at 3:10 PM.
