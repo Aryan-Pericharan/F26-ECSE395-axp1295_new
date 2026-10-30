@@ -27,3 +27,8 @@ Descirbes our meetings and work to complete the system architechture and prototy
 ### week8.md
 Describes out meeting and work to complete teh verification and validation plan as well as our work on the prototypes 
 
+## week9.md 
+Describes our work on our prototypes, specifically prototype 3
+
+## week10.md
+Describes our work on finishing up prototype 3 and planning our work for the MVP
