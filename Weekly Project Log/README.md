@@ -32,3 +32,6 @@ Describes our work on our prototypes, specifically prototype 3
 
 ## week10.md
 Describes our work on finishing up prototype 3 and planning our work for the MVP
+
+## week11.md
+Describes our work on finishing up our MVP as well as the start of our Validation testing 
